@@ -1,0 +1,25 @@
+{
+  "name": "proxy-ryan",
+  "version": "1.0.0",
+  "description": "proxy-ryan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node ./server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/General-Assembly-Rejects/proxy-Ryan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/General-Assembly-Rejects/proxy-Ryan/issues"
+  },
+  "homepage": "https://github.com/General-Assembly-Rejects/proxy-Ryan#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "react": "^17.0.1"
+  }
+}
